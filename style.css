@@ -183,4 +183,52 @@ body {
     margin-top: 100px;
 }
 
-/*fifth section start*/
+/*fifth section end*/
+/*sixth section start*/
+.sixth-sec {
+    text-align: center;
+}
+
+.sixth-sec h1 {
+    font-size: 50px;
+}
+
+.email-submit {
+    text-decoration: none;
+    color: White;
+    background-image: linear-gradient(orange, tomato);
+    position: absolute;
+    padding: 10px 40px;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+
+#email {
+    height: 35px;
+    width: 40%;
+    margin-left: 20%;
+    margin-top: 5px;
+}
+
+.footer {
+    background-color: black;
+    color: chocolate;
+    height: 150px;
+
+}
+
+.footer p {
+    color: aliceblue;
+    text-align: center;
+
+
+
+}
+
+.footer h2 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 30px;
+    text-align: center;
+}
+
+/*sixth section end*/
